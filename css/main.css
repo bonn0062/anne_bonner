@@ -1020,7 +1020,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ------------------------------------------------------------------- 
  */
 .grey-section {
-	background: #ebebeb;
+	background: #FFFFFF;
 }
 .grey-section p.lead {
 	color: #7d7d7d;
@@ -1645,7 +1645,7 @@ header .logo a {
 	display: block;
 	width: 1px;
 	height: 100%;
-	background: rgba(0, 0, 0, 0.1);
+	background: #FFFFFF;
 	position: absolute;
 	left: 35%;
 	top: 0;
@@ -1685,7 +1685,7 @@ header .logo a {
 #resume .timeline-header p {
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.6rem;
-	color: #888888;
+	color: #FFFFFF;
 }
 #resume .timeline-content {
 	margin-left: 35%;
@@ -1700,7 +1700,7 @@ header .logo a {
 	display: block;
 	height: 3px;
 	width: 50px;
-	background: rgba(0, 0, 0, 0.2);
+	background: #FFFFFF;
 	position: absolute;
 	left: 0;
 	bottom: 0;
@@ -1790,7 +1790,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #portfolio {
-	background: #FFFFFF;
+	background: #FF(0, 0, 0, rgba(0, 0, 0, 0.2));
 	padding-top: 12rem;
 	padding-bottom: 12rem;
 }
@@ -2491,12 +2491,12 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 footer {
-	padding-bottom: 3rem;
+	padding-bottom: 1rem;
 	font-size: 1.4rem;
 	font-family: "poppins-regular", sans-serif;
 }
 footer a, footer a:visited {
-	color: #FFFFFF;
+	color: rgb(3, 3, 3);
 }
 footer a:hover, footer a:focus {
 	color: #FF0077;
@@ -2521,7 +2521,7 @@ footer .footer-social li {
 	padding: 0;
 }
 footer .footer-social li a {
-	color: #FFFFFF;
+	color: rgb(2, 2, 2);
 }
 footer .copyright span {
 	display: inline-block;
