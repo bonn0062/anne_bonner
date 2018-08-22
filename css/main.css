@@ -1645,7 +1645,7 @@ header .logo a {
 	display: block;
 	width: 1px;
 	height: 100%;
-	background: #FFFFFF;
+	background: rgb(3, 3, 3);
 	position: absolute;
 	left: 35%;
 	top: 0;
@@ -1685,7 +1685,7 @@ header .logo a {
 #resume .timeline-header p {
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.6rem;
-	color: #FFFFFF;
+	color: rgb(2, 2, 2);
 }
 #resume .timeline-content {
 	margin-left: 35%;
@@ -1700,7 +1700,7 @@ header .logo a {
 	display: block;
 	height: 3px;
 	width: 50px;
-	background: #FFFFFF;
+	background: rgb(3, 3, 3);
 	position: absolute;
 	left: 0;
 	bottom: 0;
@@ -2496,7 +2496,7 @@ footer {
 	font-family: "poppins-regular", sans-serif;
 }
 footer a, footer a:visited {
-	color: #FF0077;
+	color: rgb(3, 3, 3);
 }
 footer a:hover, footer a:focus {
 	color: #FF0077;
